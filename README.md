@@ -28,7 +28,7 @@ To make this a bit more navigatable, this is a list of my most interesting proje
  * [Probability Analysis of Monopoly](https://github.com/darkeclipz/jupyter-notebooks/blob/master/Notebooks/Probability%20Analysis%20for%20Monopoly/Probability%20Analysis%20of%20Monopoly.pdf)
  * [Modeling endemic diseases with ODE's](https://colab.research.google.com/drive/1AjiTnED6CjMaIqqLvJr7pcwYzgLSAPuX)
  * [Strategy Backtesting for Algorithmic Trading](https://github.com/darkeclipz/jupyter-notebooks/blob/master/Crypto/Strategy%20Backtesting/Single%20Position%20Signal%20Trading%20Simulation%20System.ipynb)
- * [Technical analysis library](https://github.com/darkeclipz/jupyter-notebooks/blob/master/Crypto/Strategy%20Backtesting/Technical%20Analysis%20Library.ipynb)
+ * [Technical Analysis library for Algorithmic Trading](https://github.com/darkeclipz/jupyter-notebooks/blob/master/Crypto/Strategy%20Backtesting/Technical%20Analysis%20Library.ipynb)
 
 **JavaScript/TypeScript**
 
