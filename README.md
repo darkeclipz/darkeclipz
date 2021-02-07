@@ -38,7 +38,7 @@ To make this a bit more navigatable, this is a list of my most interesting proje
  * [3D L-systems](https://github.com/darkeclipz/3d-l-systems)
  * [Procedural generation](https://github.com/darkeclipz/procedural-generation)
  * [3D engine with Canvas](https://github.com/darkeclipz/3d-canvas)
-  * [Simple perspective projection](https://darkeclipz.github.io/3d-canvas/simple-perspective-projection.html)
+   * [Simple perspective projection](https://darkeclipz.github.io/3d-canvas/simple-perspective-projection.html)
  * [Binary serach tree algorithm (BST)](https://darkeclipz.github.io/compgeo/binary-search-tree.html)
  * [Convex hull algorithm](https://darkeclipz.github.io/compgeo/convex-hull.html)
  
