@@ -26,6 +26,7 @@ To make this a bit more navigatable, this is a list of my most interesting proje
  * [CSP solver](https://github.com/darkeclipz/or/blob/master/csp/CSP%20(Constraint%20Satisfaction%20Problem).ipynb)
  * [Gradient descent](https://github.com/darkeclipz/or/blob/master/nlp/Multivariable%20unconstrained%20optimization.pdf)
  * [Probability Analysis of Monopoly](https://github.com/darkeclipz/jupyter-notebooks/blob/master/Notebooks/Probability%20Analysis%20for%20Monopoly/Probability%20Analysis%20of%20Monopoly.pdf)
+ * [Modeling endemic diseases with ODE's](https://colab.research.google.com/drive/1AjiTnED6CjMaIqqLvJr7pcwYzgLSAPuX)
 
 **JavaScript/TypeScript**
 
@@ -39,6 +40,12 @@ To make this a bit more navigatable, this is a list of my most interesting proje
 **GLSL**
  * [Fractal Shaders](https://github.com/darkeclipz/shaders)
  * [2D Fractals](https://github.com/darkeclipz/fractals)
+ 
+**Machine Learning/Statistics**
+ * [Principle Component Analysis with R)(https://github.com/darkeclipz/multivariate-statistiek/blob/master/PCA%20spirals.ipynb)
+ * [Applying PCA on a heart disease dataset with R (dutch)](https://github.com/darkeclipz/multivariate-statistiek/blob/master/PCA%20heart%20disease/PCA%20heart%20disease.pdf)
+ * [k-Means clustering](https://colab.research.google.com/drive/1OX4rCMVHbMvktmbmIx4fhCxiPs1ZJcgq?usp=sharing)
+ 
  
 **C++**
 
