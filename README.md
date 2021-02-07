@@ -2,7 +2,7 @@ Hello, and welcome to my GitHub repository! 👋
 
 I have lots of repositories with completed projects, uncompleted projects, proof-of-concepts, ideas, and course notes.
 
-To make this a bit more navigatable, this is a list of my most interesting projects. Not all projects are finished, and actually, when is software actually finished? 
+To make this a bit more navigatable, this is a list of my most interesting projects. Not all projects are finished, and actually, when is software really finished? 
 
 **C#**
 
@@ -60,7 +60,7 @@ My [ShaderToy profile](https://www.shadertoy.com/user/darkeclipz) contain many m
 
  * [OpenGL game engine for learning C++/OpenGL](https://github.com/darkeclipz/opengl-game-engine)
  * [Virtual Machine (CPU emulator) in C++](https://github.com/darkeclipz/cpp-virtual-machine)
- * [CTF challenge - Reverse engineering)(https://github.com/darkeclipz/cpp-hack-game)
+ * [CTF challenge - Reverse engineering](https://github.com/darkeclipz/cpp-hack-game)
  * [Sudoku solver](https://github.com/darkeclipz/learn-cpp)
  
 **Other**
