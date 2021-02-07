@@ -16,6 +16,7 @@ To make this a bit more navigatable, this is a list of my most interesting proje
  * [Flappy Bird VR with Unity](https://github.com/darkeclipz/clappy-bird-vr)
  * [2D Platform game with Unity](https://github.com/darkeclipz/unity-2d-platform)
  * [Computing System with Logical Gates](https://github.com/darkeclipz/computing-system)
+ * [Maze generator with Kruskal's algorithm](https://github.com/darkeclipz/mazegenerator)
 
 **Python**
 
