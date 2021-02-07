@@ -42,7 +42,7 @@ To make this a bit more navigatable, this is a list of my most interesting proje
  * [2D Fractals](https://github.com/darkeclipz/fractals)
  
 **Machine Learning/Statistics**
- * [Principle Component Analysis with R)(https://github.com/darkeclipz/multivariate-statistiek/blob/master/PCA%20spirals.ipynb)
+ * [Principle Component Analysis with R](https://github.com/darkeclipz/multivariate-statistiek/blob/master/PCA%20spirals.ipynb)
  * [Applying PCA on a heart disease dataset with R (dutch)](https://github.com/darkeclipz/multivariate-statistiek/blob/master/PCA%20heart%20disease/PCA%20heart%20disease.pdf)
  * [k-Means clustering](https://colab.research.google.com/drive/1OX4rCMVHbMvktmbmIx4fhCxiPs1ZJcgq?usp=sharing)
  
