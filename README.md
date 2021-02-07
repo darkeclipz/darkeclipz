@@ -38,6 +38,9 @@ To make this a bit more navigatable, this is a list of my most interesting proje
  * [3D L-systems](https://github.com/darkeclipz/3d-l-systems)
  * [Procedural generation](https://github.com/darkeclipz/procedural-generation)
  * [3D engine with Canvas](https://github.com/darkeclipz/3d-canvas)
+  * [Simple perspective projection](https://darkeclipz.github.io/3d-canvas/simple-perspective-projection.html)
+ * [Binary serach tree algorithm (BST)](https://darkeclipz.github.io/compgeo/binary-search-tree.html)
+ * [Convex hull algorithm](https://darkeclipz.github.io/compgeo/convex-hull.html)
  
 **GLSL**
 
@@ -56,6 +59,8 @@ My [ShaderToy profile](https://www.shadertoy.com/user/darkeclipz) contain many m
 
  * [OpenGL game engine for learning C++/OpenGL](https://github.com/darkeclipz/opengl-game-engine)
  * [Virtual Machine (CPU emulator) in C++](https://github.com/darkeclipz/cpp-virtual-machine)
+ * [CTF challenge - Reverse engineering)(https://github.com/darkeclipz/cpp-hack-game)
+ * [Sudoku solver](https://github.com/darkeclipz/learn-cpp)
  
 **Other**
 
@@ -64,3 +69,4 @@ My [ShaderToy profile](https://www.shadertoy.com/user/darkeclipz) contain many m
 **Other**
 
  * [8K Fractals](https://github.com/darkeclipz/8k-fractals)
+ * [Sudoku solver in Delphi](https://github.com/darkeclipz/delphi/tree/master/Sudoku)
