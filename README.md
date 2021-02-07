@@ -38,6 +38,9 @@ To make this a bit more navigatable, this is a list of my most interesting proje
  * [3D engine with Canvas](https://github.com/darkeclipz/3d-canvas)
  
 **GLSL**
+
+My [ShaderToy profile](https://www.shadertoy.com/user/darkeclipz) contain many more GLSL doodles.
+
  * [Fractal Shaders](https://github.com/darkeclipz/shaders)
  * [2D Fractals](https://github.com/darkeclipz/fractals)
  
