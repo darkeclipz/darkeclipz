@@ -6,6 +6,7 @@ To make this a bit more navigatable, this is a list of my most interesting proje
 
 **C#**
 
+ * [Solving Sudoku as a Constraint Satisfaction Problem with Forward Propagation](https://github.com/darkeclipz/sudoku-csp)
  * [Physics Light 2D](https://github.com/darkeclipz/physics-light-2d)
  * [Google Proxy](https://github.com/darkeclipz/google-proxy)
  * [Simple CSP solver](https://github.com/darkeclipz/csp-solver)
