@@ -7,6 +7,7 @@ To make this a bit more navigatable, this is a list of my most interesting proje
 **C#**
  
  * [Min-conflict CSP solver for N-Queens (N = 128)](https://github.com/darkeclipz/n-queens)
+ * [Line segment vs Finite plane/Triangle intersections](https://github.com/darkeclipz/finite-plane-line-segment-intersection)
  * [Prototype of a CSP solver that solves expressions](https://github.com/darkeclipz/expression-csp-solver)
  * [Solving Sudoku as a CSP with Forward Propagation](https://github.com/darkeclipz/sudoku-csp)
  * [Physics Light 2D](https://github.com/darkeclipz/physics-light-2d)
@@ -72,5 +73,6 @@ My [ShaderToy profile](https://www.shadertoy.com/user/darkeclipz) contain many m
  
 **Other**
 
+ * [Blender](https://github.com/darkeclipz/blender)
  * [8K Fractals](https://github.com/darkeclipz/8k-fractals)
  * [Sudoku solver in Delphi](https://github.com/darkeclipz/delphi/tree/master/Sudoku)
