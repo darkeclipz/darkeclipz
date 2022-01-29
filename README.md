@@ -75,3 +75,6 @@ My [ShaderToy profile](https://www.shadertoy.com/user/darkeclipz) contain many m
  * [Blender](https://github.com/darkeclipz/blender)
  * [8K Fractals](https://github.com/darkeclipz/8k-fractals)
  * [Sudoku solver in Delphi](https://github.com/darkeclipz/delphi/tree/master/Sudoku)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkeclipz)](https://github.com/darkeclipz)
+
