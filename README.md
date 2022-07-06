@@ -6,7 +6,7 @@ To make this a bit more navigatable, this is a list of my most interesting proje
 
 **C#**
  
- * [Waveform collapse](https://github.com/darkeclipz/waveform-collapse)
+ * [Wave function collapse](https://github.com/darkeclipz/wave-function-collapse)
  * [Min-conflict CSP solver for N-Queens (N = 128)](https://github.com/darkeclipz/n-queens)
  * [Prototype of a CSP solver that solves expressions](https://github.com/darkeclipz/expression-csp-solver)
  * [Solving Sudoku as a CSP with Forward Propagation](https://github.com/darkeclipz/sudoku-csp)
