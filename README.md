@@ -77,4 +77,8 @@ My [ShaderToy profile](https://www.shadertoy.com/user/darkeclipz) contain many m
  * [Blender](https://github.com/darkeclipz/blender)
  * [8K Fractals](https://github.com/darkeclipz/8k-fractals)
  * [Sudoku solver in Delphi](https://github.com/darkeclipz/delphi/tree/master/Sudoku)
+ 
+ **Competitions**
+ 
+  * Participed in Google Hash Code 2020 and got rank 366 out of 10,724 participants.
 
