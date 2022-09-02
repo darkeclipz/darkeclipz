@@ -80,5 +80,5 @@ My [ShaderToy profile](https://www.shadertoy.com/user/darkeclipz) contain many m
  
  **Competitions**
  
-  * Participated in Google Hash Code 2020 and got rank 366 out of 10,724 participants world wide and rank 6 out of 141 participans in The Netherlands, with a total score of 26,883,344.
+  * Participated in Google Hash Code 2020 and got rank 366 out of 10,724 participants world wide and rank 6 out of 141 participants in The Netherlands, with a total score of 26,883,344.
 
