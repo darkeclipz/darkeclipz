@@ -24,6 +24,7 @@ To make this a bit more navigatable, this is a list of my most interesting proje
 
 **Python**
 
+ * [Sudoku solver using OpenCV and a neural network for digit extraction](https://github.com/darkeclipz/sudokai)
  * [Project Euler Problem Solving Library](https://github.com/darkeclipz/project-euler)
  * [Funny graph theory problem](https://github.com/darkeclipz/conemaze)
  * [Image to polygon](https://github.com/darkeclipz/image-to-polygon)
